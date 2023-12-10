@@ -1,0 +1,13 @@
+git+https://github.com/openai/whisper.git
+git+https://github.com/huggingface/datasets.git
+git+https://github.com/huggingface/transformers.git
+streamlit
+numpy
+pandas
+ffmpeg-python
+pydub
+jiwer
+torchaudio
+librosa
+accelerate
+scikit-learn
